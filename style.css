@@ -1,0 +1,56 @@
+#bloco-1{
+    background-color:rgb(227, 145, 14);
+    border: solid orange 5px;
+    color: white;
+    width: 20vw;
+    height: 4vw;
+    margin: 5px;
+    align-items: center;
+}
+
+#bloco-2{
+    background-color:rgb(23, 127, 68) ;
+    border: solid rgb(29, 151, 82) 5px;
+    color: white;
+    width: 20vw;
+    height: 4vw;
+    margin: 5px;
+}
+
+
+#bloco-3{
+    background-color:rgb(2, 74, 2);
+    border:dashed seagreen 5px;
+    color: white;
+    width: 20vw;
+    height: 4vw;
+    margin: 5px;
+}
+
+#bloco-4{
+    background-color:red;
+    border: dashed rgb(222, 138, 138) 5px;
+    color: white;
+    width: 20vw;
+    height: 4vw;
+    margin: 5px;
+}
+
+
+h1{
+   margin: 3px;
+    width: 15vw;
+    height: 1vw;
+    align-items: center;
+    padding: 1px;
+  
+}
+
+p{
+    margin: 3px;
+    padding: 1px;
+    height: 1vw;
+    width: 15vw;
+    align-items: center;
+    
+}
